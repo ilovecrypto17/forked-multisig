@@ -1,6 +1,7 @@
 //credits to Solidity by Example version 0.8.13
 //This repositssory is LEONS FORK
 //stay woke
+//check dankness
 
 contract MultiSigWallet {
     event Deposit(address indexed sender, uint amount, uint balance);
